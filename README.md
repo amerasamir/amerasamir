@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400" hight="100px" />
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1000" hight="100px" />
 <h1 align="center">Hi there 👋, I'm Amira</h1>
 <h3 align="center">Junior Front-End Developer</h3>
 
