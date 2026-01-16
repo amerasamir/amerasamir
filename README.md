@@ -1,10 +1,8 @@
 ## Hi there 👋
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+<img src="[https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)" width="100%" />
 <h1 align="center">Hi 👋, I'm Amira</h1>
 <h3 align="center">Junior Front-End Developer</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amerasamir &label=Profile%20views&color=0e75b6&style=flat" alt="amerasamir " /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amerasamir &theme=" alt="amerasamir " /></a> </p>
 
 
 - 📫 How to reach me **amera_samir@icloud.com**
