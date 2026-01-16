@@ -23,9 +23,10 @@
 </div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/amira-samir-5157b9191/" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/amira-samir-5157b9191/" height="30" width="40" /></a></p>
-- 📫 How to reach me **amera_samir12@icloud.com**
-- 👨‍💻 All of my projects are available at **https://github.com/amerasamir**
 
-- <img src="https://private-user-images.githubusercontent.com/74038190/240308118-6f28d73e-0d7e-4a6c-8ddf-bb24b69a71c0.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Njg2MDM1OTAsIm5iZiI6MTc2ODYwMzI5MCwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDgxMTgtNmYyOGQ3M2UtMGQ3ZS00YTZjLThkZGYtYmIyNGI2OWE3MWMwLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAxMTYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMTE2VDIyNDEzMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWEzNTg2MmIzNzg4YTRkNmJhMWM1Mjc4MzQ0ODYzZjEwZDUzZDFjYzA4NGJjMzE4NWQxN2ViOWU3NzIyN2JkZDUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.385a5nWQiG163ulgmV38t8b9woa0IoqUS4M5zFptnhQ" width="100%" />
+- 📫 How to reach me: amera_samir12@icloud.com
+
+  <img src="https://private-user-images.githubusercontent.com/74038190/240308118-6f28d73e-0d7e-4a6c-8ddf-bb24b69a71c0.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Njg2MDM1OTAsIm5iZiI6MTc2ODYwMzI5MCwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDgxMTgtNmYyOGQ3M2UtMGQ3ZS00YTZjLThkZGYtYmIyNGI2OWE3MWMwLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAxMTYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMTE2VDIyNDEzMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWEzNTg2MmIzNzg4YTRkNmJhMWM1Mjc4MzQ0ODYzZjEwZDUzZDFjYzA4NGJjMzE4NWQxN2ViOWU3NzIyN2JkZDUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.385a5nWQiG163ulgmV38t8b9woa0IoqUS4M5zFptnhQ" width="100%" align="right" />
+
+- 👨‍💻 All of my projects are available at **https://github.com/amerasamir**
 
