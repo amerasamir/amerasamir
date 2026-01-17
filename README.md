@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg" width="100%" height="300" />
+<img src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg" width="100%" />
 <h1 align="center">Hi there 👋, I'm Amira</h1>
 <h3 align="center">Junior Front-End Developer</h3>
 <h4 align="center">Fighting CSS since day one. 😅</h4> 
@@ -35,5 +35,5 @@
 
 
 
- <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%" />
+ <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%" height="300"  />
 
