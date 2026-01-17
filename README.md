@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" height="300" />
+<img src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg" width="100%" height="300" />
 <h1 align="center">Hi there 👋, I'm Amira</h1>
 <h3 align="center">Junior Front-End Developer</h3>
 <h4 align="center">Fighting CSS since day one. 😅</h4> 
@@ -22,10 +22,8 @@
 </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<hr>
 
 
-📫 How to reach me:
 <div> <a href="https://www.linkedin.com/in/amira-samir-5157b9191/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/amerasamir " target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href = "mailto:amerasamir21@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
