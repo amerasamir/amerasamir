@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg" width="100%" height="500"  />
 <h1 align="center">Hi there 👋, I'm Amira</h1>
 <h3 align="center">Junior Front-End Developer</h3>
 <h4 align="center">Fighting CSS since day one. 😅</h4> 
