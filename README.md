@@ -27,7 +27,7 @@
 </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-
+<hr>
   
 - 📫 How to reach me: amera_samir12@icloud.com
 
@@ -37,7 +37,10 @@
 
 
 
-<h2> END OF TEXT</h2>
+<h2 align="center"> END OF TEXT</h2>
+
+<hr>
+
 
 
  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%" />
