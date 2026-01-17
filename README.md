@@ -29,7 +29,7 @@
 <a href = "mailto:amerasamir21@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 
-
+<h3>Ping me if the CSS breaks 😎</h3>
 
 
 
